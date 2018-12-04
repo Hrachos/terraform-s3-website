@@ -1,0 +1,4 @@
+*.tfvars
+domain_validation.txt
+*.tfstate*
+.terraform
